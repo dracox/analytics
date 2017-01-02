@@ -4,4 +4,5 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-89644693-1', 'auto');
+ga('set', 'userId', '137141801'); // Establezca el ID de usuario mediante el user_id con el que haya iniciado sesión.
 ga('send', 'pageview');
